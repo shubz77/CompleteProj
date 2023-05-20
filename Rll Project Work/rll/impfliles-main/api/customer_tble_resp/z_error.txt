@@ -1,0 +1,9 @@
+1) @GetMapping("/showdata/{email}/{password}") not showing the data, but returning the ok response in both the cases.
+
+2) @GetMapping("/login/{email}/{password}") not working.
+
+3) @PutMapping("/updatecustomer/{email}")  age and email not changing.
+
+4) @DeleteMapping("/deletecustomer/{id}") in this excpetion message not running.
+
+5) 

@@ -1,0 +1,2 @@
+1) In update_mapping  email and date is not upadating.
+2) Not throwing error "Admin Not Found" messsage.

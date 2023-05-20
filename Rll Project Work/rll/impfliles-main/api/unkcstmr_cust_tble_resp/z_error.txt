@@ -1,0 +1,1 @@
+1) @PostMapping("/addunknowsms") for this mapping when wrong url is presented error message not thrown.

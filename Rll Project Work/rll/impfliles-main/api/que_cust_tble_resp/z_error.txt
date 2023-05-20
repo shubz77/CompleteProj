@@ -1,0 +1,3 @@
+1) @GetMapping("/findqustions/{email}"), for wrong url in this it returns [ ] brackets.
+
+2) @PostMapping("/savequestion") in this url it doesn't throw the exception for wrong url "internal server error"
